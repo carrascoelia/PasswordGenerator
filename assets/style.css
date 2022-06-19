@@ -19,8 +19,18 @@ body {
     background-color: whitesmoke;
 }
 
-
 h2 {
     border-bottom: 3px solid gray;
     padding-bottom: 15px;
+}
+
+#generate {
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+#copy { 
+    background-color: palevioletred;
+    padding: 10px;
+
 }

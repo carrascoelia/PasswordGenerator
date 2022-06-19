@@ -1,0 +1,26 @@
+header {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+body {
+    text-align: center;
+    background-color: lightgrey;
+    padding-bottom: 200px;
+    padding-top: 20px;
+}
+
+.container {
+    width: 950px;
+    height: 360px;
+    outline: 1px solid gray;
+    float: center;
+    padding: 80px;
+    background-color: whitesmoke;
+}
+
+
+h2 {
+    border-bottom: 3px solid gray;
+    padding-bottom: 15px;
+}
